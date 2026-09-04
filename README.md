@@ -1,4 +1,15 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hi,%20I'm%20Safina%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Golang+%E2%80%A2+Python;Building+cute+%26+clean+products+%E2%9C%A8" alt="Typing SVG" /> </div> <br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hi,%20I'm%20Safina%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhoY2FoMzJ5NW85ZW9nNmhncnA3cm5ka3JjemhhM2cxcW1tNndkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xiYsBnEYwhhy8/giphy.gif" width="300"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Golang+%E2%80%A2+Python;Building+cute+%26+clean+products+%E2%9C%A8" alt="Typing SVG" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Safina" alt="Typing SVG" />
+</div>
+<br/>
 
 ## About Me
 
