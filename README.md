@@ -1,24 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hi,%20I'm%20Safina%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhoY2FoMzJ5NW85ZW9nNmhncnA3cm5ka3JjemhhM2cxcW1tNndkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xiYsBnEYwhhy8/giphy.gif" width="300"/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Golang+%E2%80%A2+Python;Building+cute+%26+clean+products+%E2%9C%A8" alt="Typing SVG" />
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Safina" alt="Typing SVG" />
+
 <br/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Safina" alt="Typing SVG" />
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhoY2FoMzJ5NW85ZW9nNmhncnA3cm5ka3JjemhhM2cxcW1tNndkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xiYsBnEYwhhy8/giphy.gif" width="420"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=600&lines=Fullstack+Developer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Golang+%E2%80%A2+Python;Building+cute+%26+clean+products" alt="Typing SVG" />
+
 </div>
+
 <br/>
 
 ## About Me
 
 I'm a fullstack developer who enjoys building products end-to-end — from crafting smooth frontend interfaces to designing solid backend systems. I care about clean code, good architecture, and shipping things that actually work well.
 
-- 🔭 Currently building fullstack products with modern JS/TS tooling
-- 🌱 Exploring Golang for backend performance
-- 💬 Happy to talk about React ecosystems, API design, or dev tooling
-- ⚡ I like things simple, fast, and well-structured
+- Currently building fullstack products with modern JS/TS tooling
+- Exploring Golang for backend performance
+- Happy to talk about React ecosystems, API design, or dev tooling
+- I like things simple, fast, and well-structured
 
 <br/>
 
@@ -80,7 +83,27 @@ I'm a fullstack developer who enjoys building products end-to-end — from craft
 
 <br/>
 
-GitHub Stats
-<table> <tr> <td width="50%"> <img src="https://github-stats-extended.vercel.app/api?username=saf-i2303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" width="100%" /> </td> <td width="50%"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=saf-i2303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="100%" /> </td> </tr> </table> <img src="https://streak-stats.demolab.com/?user=saf-i2303&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" width="100%" /> <br/>
-Contribution Graph
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saf-i2303/saf-i2303/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saf-i2303/saf-i2303/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saf-i2303/saf-i2303/output/pacman-contribution-graph.svg" width="100%"> </picture>
+## GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-stats-extended.vercel.app/api?username=saf-i2303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=saf-i2303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" width="100%" />
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=saf-i2303&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" width="100%" />
+
+<br/>
+
+## Contribution Graph
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saf-i2303/saf-i2303/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saf-i2303/saf-i2303/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saf-i2303/saf-i2303/output/pacman-contribution-graph.svg" width="100%">
+</picture>
